@@ -4,11 +4,11 @@
    ============================================ */
 
 :root {
-  --qm-navy:        #1B2A4A;
-  --qm-orange:      #E8743B;
-  --qm-orange-hover:#C85F27;
-  --qm-cream:       #FAF8F4;
-  --qm-text:        #1A1A1A;
+  --qm-navy:        #000000;
+  --qm-orange:      #F37623;
+  --qm-orange-hover:#D96A1F;
+  --qm-cream:       #FAF8F5;
+  --qm-text:        #000000;
   --qm-text-soft:   #5A5A5A;
   --qm-border:      #E5E2DB;
   --qm-star:        #F5A623;
@@ -116,7 +116,7 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
   position: sticky;
   top: 0;
   z-index: 100;
-  background-color: var(--qm-cream);
+  background-color: #ffffff;
   border-bottom: 1px solid var(--qm-border);
 }
 .qm-header-inner {
@@ -226,7 +226,7 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
 
 /* Homepage hero — two-column: text left, video right */
 .qm-hero {
-  background-color: var(--qm-navy);
+  background-color: var(--qm-orange);
   color: #fff;
   padding: 72px 0 64px;
   overflow: hidden;
@@ -283,7 +283,7 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
 
 /* Page hero (inner pages) */
 .qm-page-hero {
-  background-color: var(--qm-navy);
+  background-color: var(--qm-orange);
   color: #fff;
   padding: 52px 0;
 }
@@ -383,7 +383,7 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
     bottom: 0; left: 0; right: 0;
     z-index: 999;
     padding: 14px 16px;
-    background-color: var(--qm-navy);
+    background-color: var(--qm-orange);
     color: #fff;
     justify-content: center;
     align-items: center;
@@ -497,7 +497,7 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
 
 /* CTA block */
 .qm-cta-block {
-  background-color: var(--qm-navy);
+  background-color: var(--qm-orange);
   color: #fff;
   border-radius: 8px;
   padding: 48px 40px;

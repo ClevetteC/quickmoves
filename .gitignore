@@ -2,3 +2,20 @@
 Thumbs.db
 desktop.ini
 *.tmp
+~$*
+
+# Claude Code internals
+.claude/
+
+# Playwright MCP session logs
+.playwright-mcp/
+
+# Dev screenshots captured during build
+current-hero.png
+current-site-full.png
+mobile-hero-check.png
+mobile-hero-video.png
+mobile-video-aligned.png
+netlify-current-hero.png
+netlify-full-page.png
+squarespace-current.png

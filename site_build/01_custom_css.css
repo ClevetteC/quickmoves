@@ -8,11 +8,11 @@
    1. Design tokens
 -------------------------------------------- */
 :root {
-  --qm-navy:        #1B2A4A;
-  --qm-orange:      #E8743B;
-  --qm-orange-hover:#C85F27;
-  --qm-cream:       #FAF8F4;
-  --qm-text:        #1A1A1A;
+  --qm-navy:        #000000;
+  --qm-orange:      #F37623;
+  --qm-orange-hover:#D96A1F;
+  --qm-cream:       #FFFFFF;
+  --qm-text:        #000000;
   --qm-text-soft:   #5A5A5A;
   --qm-border:      #E5E2DB;
   --qm-star:        #F5A623;
@@ -105,7 +105,7 @@ body,
   color: var(--qm-orange);
 }
 
-/* Phone number pinned in header on mobile */
+/* Phone number pinned in header — boxed for visibility */
 .header-actions-action--phone {
   display: flex !important;
   align-items: center;
@@ -113,6 +113,36 @@ body,
   font-weight: 600;
   color: var(--qm-navy);
   font-size: 15px;
+  border: 2px solid var(--qm-navy);
+  border-radius: 4px;
+  padding: 6px 14px;
+  white-space: nowrap;
+}
+
+.header-actions-action--phone:hover {
+  background-color: var(--qm-navy);
+  color: #fff;
+}
+
+/* Get a Free Quote — CTA button in header nav */
+.header-actions-action--cta a,
+.header-nav-item--cta a {
+  background-color: var(--qm-orange) !important;
+  color: #fff !important;
+  border-radius: 4px !important;
+  padding: 8px 18px !important;
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 15px !important;
+  border: 2px solid var(--qm-orange) !important;
+  transition: background-color 0.2s ease !important;
+}
+
+.header-actions-action--cta a:hover,
+.header-nav-item--cta a:hover {
+  background-color: var(--qm-orange-hover) !important;
+  border-color: var(--qm-orange-hover) !important;
+  color: #fff !important;
 }
 
 /* --------------------------------------------
@@ -213,7 +243,7 @@ body,
     right: 0;
     z-index: 999;
     padding: 14px 16px;
-    background-color: var(--qm-navy);
+    background-color: var(--qm-orange);
     color: #fff;
     justify-content: center;
     align-items: center;
@@ -297,7 +327,7 @@ body,
 }
 
 .qm-service-card:hover {
-  box-shadow: 0 4px 16px rgba(27, 42, 74, 0.1);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
   transform: translateY(-2px);
 }
 
@@ -334,7 +364,7 @@ body,
 }
 
 .qm-town-card:hover {
-  box-shadow: 0 4px 12px rgba(27, 42, 74, 0.08);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
 .qm-town-card h3 {
@@ -416,7 +446,7 @@ body,
    15. CTA block (used at page bottoms)
 -------------------------------------------- */
 .qm-cta-block {
-  background-color: var(--qm-navy);
+  background-color: var(--qm-orange);
   color: #fff;
   border-radius: 8px;
   padding: 48px 40px;
@@ -530,8 +560,49 @@ footer.site-footer,
   border-top: 1px solid var(--qm-border);
   padding-top: 16px;
   font-size: 13px;
-  color: #9A9690;
+  color: var(--qm-text) !important;
   background-color: var(--qm-cream) !important;
+}
+
+/* Footer phone + CTA — boxed to match header treatment */
+.site-footer .header-actions-action--phone,
+.site-footer a[href^="tel"],
+.footer-blocks a[href^="tel"] {
+  display: inline-flex !important;
+  align-items: center;
+  font-weight: 700;
+  color: var(--qm-navy) !important;
+  border: 2px solid var(--qm-navy);
+  border-radius: 4px;
+  padding: 6px 14px;
+  font-size: 15px;
+  text-decoration: none;
+}
+
+.site-footer a[href^="tel"]:hover,
+.footer-blocks a[href^="tel"]:hover {
+  background-color: var(--qm-navy);
+  color: #fff !important;
+}
+
+/* Footer "Get a Free Quote" style box */
+.site-footer a[href*="quote"],
+.site-footer a[href*="get-a-quote"] {
+  display: inline-flex !important;
+  background-color: var(--qm-orange);
+  color: #fff !important;
+  border-radius: 4px;
+  padding: 8px 18px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.site-footer a[href*="quote"]:hover,
+.site-footer a[href*="get-a-quote"]:hover {
+  background-color: var(--qm-orange-hover) !important;
 }
 
 /* --------------------------------------------
