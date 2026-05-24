@@ -1,0 +1,15 @@
+URL MAPPINGS — Squarespace
+Destination: Settings → Advanced → URL Mappings
+Paste all lines as-is, one per line.
+
+/contact-2-1 -> /areas-we-serve 301
+/contact-2-1-1 -> /areas-we-serve 301
+/contact-2-1-1-2 -> /areas-we-serve 301
+/contact-2-1-1-3-1 -> /services/junk-removal 301
+/contact-2-1-1-3 -> /services/junk-removal 301
+/new-dropdown -> /services 301
+/partners -> /about 301
+/contact -> /get-a-quote 301
+
+AFTER PASTING: Test each old URL in a browser tab and confirm it lands on the correct new page.
+Note: Do not include trailing slashes in the mapping syntax — Squarespace strips them.

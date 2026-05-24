@@ -1,0 +1,920 @@
+# Quick Move & Packing Service — Full Site Copy Review
+**Prepared for client review | May 2026**
+---
+## GLOBAL ELEMENTS (appear on every page)
+### Navigation
+- Services
+- Areas We Serve
+- FAQs
+- About
+- (914) 732-3733
+- Get a Free Quote [button]
+### Footer
+**Company blurb:** Family-owned movers serving Westchester County, NYC, and the tri-state area since 1996.
+**Contact:**
+- (914) 732-3733
+- steven@myquickmove.com
+- 240 Halstead Avenue, Harrison, NY 10528
+**Footer links — Services:** Local Moving, Long Distance, Commercial, Packing, Labor Only, Storage, Last-Minute, Junk Removal
+**Footer links — Areas:** White Plains, Mamaroneck, Rye, Larchmont, All Areas
+**Footer links — Company:** About, Reviews, FAQs, Moving Supplies, Get a Quote
+**Copyright line:** © 2026 Quick Move & Packing Service | NY State License #38255 | Fully insured
+### Sticky Call Button
+Call (914) 732-3733
+---
+---
+# PAGE 1 — HOMEPAGE
+**Page title (browser/SEO):** Westchester Movers | Quick Move & Packing Service (Harrison, NY)
+**Meta description:** Family-owned Westchester moving company with over 30 years of experience. Full-service packing, moving, and storage across Westchester, NYC, and the tri-state area. Free quote or video estimate.
+---
+## Section: Hero
+**H1:** Local Westchester Movers From Packing to Moving, We Do It All.
+**Subheadline:** Movers who treat your home like their own. Family-owned for over 30 years. Full-service packing, moving, and storage across Westchester, NYC, and the tri-state area. No surprises. Just a crew you can trust in your home.
+**Buttons:**
+- Get a Free Quote
+- Upload a Video for Estimate
+**Phone link:** Call (914) 732-3733
+---
+## Section: Trust Strip
+- ★ 4.9 on Google (88 reviews)
+- ★ 4.8 on Angi (198 reviews)
+- NY State License #38255
+- Fully insured
+---
+## Section: How We Help You Move
+**H2:** How we help you move
+**Card 1**
+- Title: Full-Service Local Moves
+- Body: Packing, loading, transport, and setup. Handled by the same crew from start to finish.
+- Link: See local moving
+**Card 2**
+- Title: Professional packing
+- Body: Whether it's your kitchen, your grandmother's china, or everything you own, we pack it, label it, and make sure it's waiting for you on the other side.
+- Link: See packing services
+**Card 3**
+- Title: Storage and clean-outs
+- Body: In, out, or between units. Plus decluttering help when you're downsizing or selling.
+- Link: See storage moves
+**Link:** See all services
+---
+## Section: Why Families Call Us
+**H2:** Why families in Westchester call us
+**Item 1**
+- Title: Over 30 Years Local
+- Body: Family run then, family run now.
+**Item 2**
+- Title: No Surprises
+- Body: In-person or video estimate before we start.
+**Item 3**
+- Title: Trained Crew
+- Body: We hire and train our own team. The same faces show up at your door.
+**Item 4**
+- Title: Licensed and Insured
+- Body: NY State #38255 (Intrastate), MC-1733198-C (Interstate). Certificate of Insurance (COIs) provided on request.
+---
+## Section: Reviews
+**H2:** What our neighbors say.
+**Review 1**
+- Stars: 5
+- Quote: If I could give them 10 stars I would. Staff was kind, attentive and efficient. They also had the best price around. I would recommend them to absolutely everyone.
+- Author: Ashley D. — Mamaroneck, NY
+**Review 2**
+- Stars: 5
+- Quote: Professional, knowledgeable, always available for any questions. Outstanding service.
+- Author: Michael N. — Rye, NY
+**Review 3**
+- Stars: 5
+- Quote: Quick Move handled our storage during a full home renovation. They packed everything, stored it, and returned it when we were ready. Not one thing was damaged. Frankie kept us updated the whole time.
+- Author: Sharon W. — Westchester, NY
+**Review 4**
+- Stars: 5
+- Quote: These guys are the real deal. On time, careful with our furniture, and fair on price. Have used them twice now and will use them again.
+- Author: James R. — White Plains, NY
+**Review 5**
+- Stars: 5
+- Quote: Frankie and the crew moved our office over a weekend so we were back up Monday morning. Zero downtime. Every box was labeled and exactly where it needed to be.
+- Author: Patricia M. — Harrison, NY
+**Review 6**
+- Stars: 5
+- Quote: We called with two days notice and they made it happen. The crew was professional, fast, and handled our grandmother's antiques like they were their own. Incredible service.
+- Author: David L. — Scarsdale, NY
+**Link:** Read all 288 reviews
+---
+## Section: Areas We Serve
+**H2:** Based in Harrison. Working across Westchester and beyond.
+**Intro paragraph:** We're a Harrison, NY team serving all of Westchester County, the five boroughs of New York City, and southern Connecticut. Most of our moves happen in White Plains, Mamaroneck, Rye, Larchmont, Harrison, Port Chester, and Scarsdale.
+**Town Card 1**
+- Title: White Plains
+- Body: County seat. 10 min from our Harrison HQ.
+**Town Card 2**
+- Title: Mamaroneck
+- Body: 5 min away. Chamber of Commerce members.
+**Town Card 3**
+- Title: Rye
+- Body: Historic homes and waterfront. 7 min from HQ.
+**Town Card 4**
+- Title: Larchmont
+- Body: Family homes and commuter moves. 10 min away.
+**Link:** See all areas we serve
+---
+## Section: How It Works
+**H2:** Simple, from first call to last box.
+**Step 1**
+- Title: Tell us about your move
+- Body: Fill out a short form, upload a video, or call us. We'll ask about your home, your timeline, and anything fragile or complicated.
+**Step 2**
+- Title: Get a real estimate
+- Body: We do in-person or video walkthroughs before quoting. No sight-unseen guesses.
+**Step 3**
+- Title: We show up prepared
+- Body: Same crew, on time, with the right truck, materials, and padding.
+**Step 4**
+- Title: You move in
+- Body: We place boxes and furniture where you want them. You don't lift a finger.
+---
+## Section: CTA
+**H2:** Ready to plan your move?
+**Subheadline:** We'll come to you for an in-home estimate.
+**Buttons:**
+- Get a Free Quote
+- Upload a Video for Estimate
+- (914) 732-3733
+---
+---
+# PAGE 2 — ABOUT
+**Page title:** About Quick Move & Packing | Family-Owned Westchester Movers
+**Meta description:** Family-owned and operated by the Rocco family for over 30 years. Based in Harrison, NY. Licensed, insured, trusted across Westchester.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / About
+**H1:** A Westchester family business, moving Westchester families.
+**Subheadline:** Started in the Bronx. Based in Harrison since 1996. Same family, same crew, same name on the truck.
+---
+## Section: Our Story
+**H2:** Our story.
+**Paragraph 1:** Quick Move & Packing was started by Steve Rocco over 30 years ago with one truck and one rule. Treat every home like it was your own mother's. Steve grew up in the Bronx, learned the trade the hard way, and built a reputation one move at a time.
+**Paragraph 2:** Today the business runs out of 240 Halstead Avenue in Harrison, NY, with Steve still involved in every major job and his son Frankie running the day-to-day. Our crew is small by design. We train our own people and keep them, which is why the same faces show up at your door that showed up at your neighbour's.
+**Paragraph 3:** We've moved families across Westchester, the five boroughs, and southern Connecticut. We've moved offices, packed kitchens, coordinated storage, and done clean-outs. What hasn't changed in over 30 years is how we do it. Carefully, on time, and with no surprises.
+---
+**H2:** What we believe.
+- No surprises. You get a real estimate from a real person before we start. No bait-and-switch.
+- Trained crew. Every person on your move is trained, uniformed, and part of our team.
+- Your home, handled like ours. Floor protection, door padding, careful wrapping. Always.
+---
+**H2:** Our credentials.
+- NY State Moving License #38255
+- US DOT and NYDOT compliant
+- Fully insured, COIs on request
+- HomeAdvisor Elite Service, 5 years screened and approved
+- Members, Mamaroneck Chamber of Commerce
+---
+**Trust strip (sidebar):**
+- ★ 4.9 Google
+- Licensed #38255
+- Insured
+- Since 1996
+---
+## Section: CTA
+**H2:** Ready to plan your move?
+**Subheadline:** Get a free estimate in under 24 hours.
+**Buttons:**
+- Get a Free Quote
+- Upload a Video for Estimate
+- (914) 732-3733
+---
+---
+# PAGE 3 — AREAS WE SERVE
+**Page title:** Areas We Serve | Westchester, NYC and Tri-State Movers
+**Meta description:** Quick Move serves Westchester County, NYC boroughs, and southern Connecticut. Based in Harrison, NY.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Areas We Serve
+**H1:** Based in Harrison. Moving families across Westchester, NYC, and the tri-state area.
+**Subheadline:** Quick Move has been part of the Westchester community for over 30 years. Our trucks and crews work out of Harrison, NY. Most of our moves happen right in our own backyard, which means we know the buildings, the streets, and the parking rules.
+---
+## Section: Most-Served Towns
+**H2:** Our most-served towns.
+**Town Card 1**
+- Title: White Plains
+- Body: County seat. 10 min from our Harrison HQ. Condos, family homes, offices.
+**Town Card 2**
+- Title: Mamaroneck
+- Body: 5 min away. Chamber of Commerce members. Waterfront to village.
+**Town Card 3**
+- Title: Rye
+- Body: Historic homes and waterfront. 7 min from HQ. Narrow driveways, older staircases.
+**Town Card 4**
+- Title: Larchmont
+- Body: Family homes and commuter moves. 10 min away. The Manor and the Flats.
+---
+## Section: Additional Areas
+**H2:** We also serve.
+**Body:** Harrison, Scarsdale, Port Chester, Rye Brook, New Rochelle, Bronxville, Yonkers, Eastchester, Tuckahoe, all five NYC boroughs, and Fairfield County, CT (Greenwich, Stamford, Darien).
+**H3:** Don't see your town?
+**Body:** Call (914) 732-3733. We probably cover it.
+---
+## Section: CTA
+**H2:** Ready to plan your move?
+**Subheadline:** Get a free estimate in under 24 hours.
+**Buttons:**
+- Get a Free Quote
+- Upload a Video for Estimate
+- (914) 732-3733
+---
+---
+# PAGE 4 — FAQs
+**Page title:** FAQ | Quick Move & Packing Service (Westchester, NY)
+**Meta description:** Common questions about our moving services, pricing, packing, storage, video estimates, and more. Call (914) 732-3733.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / FAQs
+**H1:** Frequently asked questions.
+**Subheadline:** If we missed one, call us at (914) 732-3733.
+---
+## Section: Pricing and Estimates
+**H2:** Pricing and estimates
+**Q:** How do you quote a move?
+**A:** We do an in-person or video walkthrough, then send a written estimate. Flat rate available on request.
+**Q:** Are there hidden fees?
+**A:** Never. We discuss all fees before, during, and after your job.
+**Q:** Do you offer flat-rate moves?
+**A:** Yes. Ask for one at quote time.
+**Q:** Do you require a deposit?
+**A:** Call us at (914) 732-3733 for current deposit policy details.
+---
+## Section: Services
+**H2:** Services
+**Q:** Do you pack?
+**A:** Yes. Full pack or partial pack, whichever fits your move. See the packing services page for details.
+**Q:** Do you do last-minute moves?
+**A:** Yes, when our schedule allows. Call (914) 732-3733 for same-day availability.
+**Q:** Do you do storage?
+**A:** Yes. Short and long term. We pack it, move it in, and return it when you're ready.
+**Q:** Do you do office moves?
+**A:** Yes. Evenings and weekends available to minimize your downtime.
+**Q:** Do you do labor only?
+**A:** Yes. We bring the crew. You bring the truck.
+**Q:** Do you haul away junk?
+**A:** Yes, usually paired with a move. Call us to discuss.
+---
+## Section: Logistics
+**H2:** Logistics
+**Q:** What areas do you serve?
+**A:** Westchester County, New York City, and Fairfield County, CT. Call (914) 732-3733 if you don't see your town listed.
+**Q:** How far in advance should I book?
+**A:** Two to four weeks is ideal in peak season (May through September). We do take last-minute jobs when the schedule allows.
+**Q:** Can you move me on a weekend?
+**A:** Yes, with booking lead time.
+**Q:** Can I upload a video for an estimate?
+**A:** Yes. Record a walkthrough on your phone and upload it at the video estimate page. Steve or Frankie reviews it personally and sends pricing back the same day during business hours.
+---
+## Section: Credentials and Insurance
+**H2:** Credentials and insurance
+**Q:** Are you licensed?
+**A:** Yes. NY State Moving License #38255. NYDOT and USDOT compliant.
+**Q:** Do you provide a Certificate of Insurance (COI)?
+**A:** Yes, on request. Typically for building management or co-op boards. Request at quote time.
+**Q:** Are you insured?
+**A:** Yes, fully insured. Ask about additional valuation coverage options at quote time.
+---
+## Section: Supplies
+**H2:** Supplies
+**Q:** Where can I buy moving supplies?
+**A:** At our Harrison store at 240 Halstead Avenue, or we deliver free across Westchester.
+---
+## Section: CTA
+**H2:** Still have a question?
+**Subheadline:** Call or email. Steve or Frankie will answer directly.
+**Buttons:**
+- (914) 732-3733
+- Get a Free Quote
+---
+---
+# PAGE 5 — GET A QUOTE
+**Page title:** Get a Free Moving Quote | Quick Move & Packing (Westchester)
+**Meta description:** Request a free estimate from Quick Move & Packing. In-person, phone, or video walkthrough. Same-day response during business hours.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Get a Quote
+**H1:** Tell us about your move.
+**Subheadline:** Fill out the form below, upload a video, or call (914) 732-3733. We respond within a few hours during business hours, usually the same day.
+---
+## Section: Estimate Options
+**H3:** In-home or phone estimate.
+**Body:** Fill out the form. We'll schedule a quick walkthrough. Most accurate pricing because we see exactly what's moving.
+**H3:** Video estimate (faster).
+**Body:** Record a walkthrough on your phone and upload it. Steve or Frankie watches it personally and sends pricing back the same day during business hours.
+**Link:** Upload a video
+---
+**Trust strip:**
+- ★ 4.9 on Google
+- ★ 4.8 on Angi
+- NY License #38255
+- Fully insured
+---
+## Section: Contact Info
+**H2:** Prefer to reach us directly?
+**Subheadline:** Call, email, or visit. Steve or Frankie will answer.
+**Phone:** (914) 732-3733
+**Email:** steven@myquickmove.com
+**Visit:** 240 Halstead Avenue, Harrison, NY 10528
+**Hours:** Mon–Sat 8:00 AM – 6:00 PM
+---
+---
+# PAGE 6 — VIDEO ESTIMATE
+**Page title:** Video Estimate | Quick Move & Packing (Westchester, NY)
+**Meta description:** Upload a walkthrough video and get a moving estimate back the same day. Westchester movers, licensed and insured, family-owned.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Video Estimate
+**H1:** Get a quote by video.
+**Subheadline:** Faster than scheduling a visit. Record a quick walkthrough on your phone, upload it here, and we'll send you pricing back the same day during business hours.
+---
+## Section: How It Works
+**Step 1**
+- Title: Walk and record
+- Body: Start in your entryway and walk through each room. Open closets, pan furniture, show us anything fragile or oversized.
+**Step 2**
+- Title: Upload the file
+- Body: Drag it into the form below, or upload directly from your phone. Record in 1080p, not 4K, to keep the file under 1GB.
+**Step 3**
+- Title: Get a quote
+- Body: Steven reviews the video and follows up with a written estimate. Usually within a few hours during business hours.
+---
+**Trust strip:**
+- Reviewed by Steve or Frankie personally, not AI
+- NY License #38255
+- Fully insured
+---
+**Trust strip:**
+- ★ 4.9 on Google (88 reviews)
+- ★ 4.8 on Angi (198 reviews)
+- Same-day response during business hours
+---
+## Section: What to Show
+**H2:** What to show in the video.
+- Every room with furniture to be moved
+- Closets, basement, attic, garage
+- Anything heavy, fragile, or oversized (piano, safe, artwork, large mirrors)
+- The path out of the home (stairs, elevators, driveway access)
+---
+---
+# PAGE 7 — REVIEWS
+**Page title:** Reviews | 288 Reviews for Quick Move & Packing Service
+**Meta description:** Real reviews from Westchester families on Google and Angi. 4.9 stars average. Family-owned movers with over 30 years of experience.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Reviews
+**H1:** 288 reviews and counting.
+**Subheadline:** 88 reviews on Google averaging 4.9 stars. 198 reviews on Angi averaging 4.8. Here is what our neighbours are saying.
+---
+## Section: Google Reviews
+**H2:** Google Reviews
+**Trust strip:**
+- ★ 4.9 average
+- 88 Google reviews
+*[Google Reviews widget loads here]*
+---
+## Section: Angi Reviews
+**H2:** What Angi customers say.
+**Review 1**
+- Stars: 5
+- Quote: If I could give them 10 stars I would. Staff was kind, attentive and efficient. They also had the best price around.
+- Author: Ashley D. — Mamaroneck, NY | Angi
+**Review 2**
+- Stars: 5
+- Quote: Professional, knowledgeable, always available for any questions. Outstanding service.
+- Author: Michael N. — Rye, NY | Angi
+**Review 3**
+- Stars: 5
+- Quote: Quick Move handled our storage during a full home renovation. Not one thing was damaged. Frankie kept us updated the whole time.
+- Author: Sharon W. — Westchester, NY | Angi
+**Review 4**
+- Stars: 5
+- Quote: These guys are the real deal. On time, careful with our furniture, and fair on price. Have used them twice now and will use them again.
+- Author: James R. — White Plains, NY | Angi
+**Review 5**
+- Stars: 5
+- Quote: Frankie and the crew moved our office over a weekend so we were back up Monday morning. Zero downtime.
+- Author: Patricia M. — Harrison, NY | Angi
+**Review 6**
+- Stars: 5
+- Quote: We called with two days notice and they made it happen. The crew was professional, fast, and handled our grandmother's antiques like they were their own.
+- Author: David L. — Scarsdale, NY | Angi
+---
+## Section: Leave a Review
+**H2:** Moved with us recently?
+**Body:** We'd appreciate a quick Google review. It helps other Westchester families find a mover they can trust.
+**Button:** Get a Free Quote
+---
+---
+# PAGE 8 — MOVING SUPPLIES
+**Page title:** Moving Boxes and Supplies Delivered in Westchester | Quick Move & Packing
+**Meta description:** Moving boxes, tape, padding, and wardrobe boxes delivered free across Westchester. Call (914) 732-3733.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Moving Supplies
+**H1:** Moving supplies, delivered free in Westchester.
+**Subheadline:** Boxes, tape, padding, wardrobe boxes. We drop them at your door before move day. No pickup fees and no minimums in our delivery area.
+---
+## Section: What We Supply
+**H2:** What we supply.
+- Standard moving boxes (small, medium, large)
+- Heavy-duty wardrobe boxes with hanging bar
+- Packing tape and dispensers
+- Bubble wrap and packing paper
+- Furniture pads and moving blankets
+- Specialty boxes (dish packs, mirror boxes)
+**H2:** Order by phone or form.
+**Body:** Call (914) 732-3733 to place an order. We'll confirm delivery timing and drop everything at your door before move day.
+**Button:** Call (914) 732-3733
+---
+**Trust strip:**
+- Free delivery in Westchester
+- No minimums
+- Same-day available
+---
+## Section: CTA
+**H2:** Need supplies before your move?
+**Subheadline:** Call us to place an order. We deliver free across Westchester.
+**Buttons:**
+- (914) 732-3733
+- Get a Moving Quote
+---
+---
+# PAGE 9 — SERVICES (Overview)
+**Page title:** Moving Services in Westchester, NY | Quick Move & Packing
+**Meta description:** Local and long distance moving, commercial relocations, packing, labor-only, storage, last-minute moves, and junk removal. Licensed, insured, family-owned.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Services
+**H1:** Full-Service Moving, Packing, and Storage
+**Subheadline:** You can hand the whole move to us. Or just the part you don't want to deal with. Here is what we do.
+---
+## Section: Services Grid
+**Card 1**
+- Title: Local Moving
+- Body: Full-service moves across Westchester County. Packing through unpacking, one crew, one plan.
+**Card 2**
+- Title: Long Distance Moving
+- Body: Select long distance moves from Westchester. Flat pricing agreed up front, no add-ons at delivery.
+**Card 3**
+- Title: Commercial and Office Moves
+- Body: Overnight, weekend, or holiday relocations. Your team is working again by Monday.
+**Card 4**
+- Title: Professional Packing
+- Body: Whole home or just the rooms you don't want to deal with. Labeled and ready to travel.
+**Card 5**
+- Title: Labor-Only Moving
+- Body: Already have a truck? We supply the crew. Loading, unloading, and rearranging.
+**Card 6**
+- Title: Storage Moves
+- Body: Move-ins, move-outs, and transfers. One team handles it all.
+**Card 7**
+- Title: Last-Minute Moves
+- Body: Short notice? We'll tell you upfront if we can help. If we can, we show up ready.
+**Card 8**
+- Title: Junk Removal
+- Body: Basement, garage, or full house—we clear it out and haul it away.
+**Button:** Get a Free Quote
+---
+---
+# PAGE 10 — LOCAL MOVING (Service Page)
+**Page title:** Local Movers in Westchester, NY | Quick Move & Packing
+**Meta description:** Family-owned local movers serving Westchester County for over 30 years. Licensed, insured, fair pricing. Free quote.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Services / Local Moving
+**H1:** Local moving across Westchester County.
+**Subheadline:** Full-service local moves handled by an experienced crew. From Packing to Moving, We Do it All!
+---
+## Section: Body Content
+**H2:**  Serving Westchester since 1996
+**Intro paragraph:** We've been moving families and professionals across Westchester County for over 30 years. That includes White Plains, Mamaroneck, Rye, Larchmont, Harrison, Port Chester, Scarsdale, and every town in between. We know the buildings, the streets, and the rules.
+**H2:** What's included?
+- Pre-move walkthrough, in person or by video
+- Protection for floors, walls, stairs, and doorways
+- Professional wrapping and padding of furniture
+- Loading, secure transport, and unloading
+- Box and furniture placement in the correct rooms
+- Same crew from start to finish
+**H2:** Who is this for?
+- Busy families moving within Westchester on a tight school-and-work timeline
+- Downsizing homeowners who need patient, respectful help
+- Apartment and condo movers coordinating elevators, building rules, and parking
+**H2:** Why Quick Move?
+- Over 30 years of moving experience
+- Family-owned local business
+- Estimates with full transparency
+---
+## Section: CTA
+**H2:** Ready to plan your move?
+**Subheadline:** Get a free estimate in under 24 hours.
+**Buttons:**
+- Get a Free Quote
+- Upload a Video for Estimate
+- (914) 732-3733
+---
+---
+# PAGE 11 — LONG DISTANCE MOVING (Service Page)
+**Page title:** Long Distance Movers from Westchester, NY | Quick Move & Packing
+**Meta description:** Long distance moves from Westchester to the surrounding region. Flat pricing, careful handling, honest timelines.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Services / Long Distance Moving
+**H1:** Long distance moving from Westchester
+**Subheadline:** Dedicated Truck, No Shared Loads
+---
+## Section: Body Content
+**Intro paragraph:** Long distance moves need more coordination than local work. That's fine. We plan for it. Before we book anything we talk through the route, the timing, and the pricing in detail. If it's not a good fit for us, we'll say so and point you to a company that handles it better.
+**H2:** What's included?
+- Detailed move planning and written timeline
+- Secure packing and furniture protection
+- Scheduled transport and delivery
+- Direct communication throughout the trip
+**H2:** Who this is for?
+- Families relocating from Westchester to the broader Northeast or Mid-Atlantic
+- Moves where you want the same crew packing and delivering, not a handoff to a sub-contracted driver
+- Customers who've been burned by bait-and-switch long-distance pricing and want honest numbers up front
+**H2:** Why Quick Move?
+- Flat pricing agreed up front. No add-ons at the delivery door.
+- Same crew packing and delivering where the route allows
+- We turn down routes we can't handle well. You won't be passed off.
+---
+## Section: CTA
+**H2:** Ready to plan your move?
+**Subheadline:** Get a free estimate in under 24 hours.
+**Buttons:**
+- Get a Free Quote
+- Upload a Video for Estimate
+- (914) 732-3733
+---
+---
+# PAGE 12 — PACKING SERVICES (Service Page)
+**Page title:** Professional Packing Services in Westchester | Quick Move & Packing
+**Meta description:** Whole-home or partial packing by an experienced local crew. Proper materials, proper labeling. Available standalone.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Services / Packing Services
+**H1:** Professional packing, done right the first time.
+**Subheadline:** Whole-home packs or just the rooms you don't want to deal with. Labeled, padded, and ready to travel.
+---
+## Section: Body Content
+**H2:** What's included?
+- All packing materials supplied, or we'll work with yours
+- Careful wrapping of fragile items, china, art, and electronics
+- Clear labeling by room and contents
+- Wardrobe boxes for hanging clothes
+- Unpacking at the new home if you want it
+**H2:** Who this is for?
+- Families who can move themselves but don't want to pack
+- Homeowners staging for sale who need items packed and stored
+- Anyone with a kitchen or china cabinet they don't want to touch
+**H2:** Why Quick Move?
+- Packers trained to our standard. Not random labor.
+- Real labeling. You'll know where everything is at the other end.
+- Packing only is fine. You don't have to use us for the whole move.
+---
+## Section: CTA
+**H2:** Ready to plan your move?
+**Subheadline:** Get a free estimate in under 24 hours.
+**Buttons:**
+- Get a Free Quote
+- Upload a Video for Estimate
+- (914) 732-3733
+---
+---
+# PAGE 13 — COMMERCIAL MOVING (Service Page)
+**Page title:** Office Movers in Westchester and NYC | Quick Move & Packing
+**Meta description:** Weekend and overnight office relocations across Westchester and NYC. Licensed commercial movers with over 30 years of experience.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Services / Commercial Moving
+**H1:** Office and commercial moves, handled on your schedule
+**Subheadline:** Overnight, weekend, or holiday relocations so your team is working again by Monday morning
+---
+## Section: Body Content
+**H2:** What's included?
+- Planning walkthrough with your office manager
+- Packing and labeling of desks, files, and equipment
+- Careful handling of monitors, servers, and fragile office items
+- After-hours and weekend scheduling
+- Unpacking and placement at the new location
+**H2:** Who is this for?
+- Small and mid-sized offices in Westchester and the five boroughs
+- Medical, legal, and professional practices relocating without disruption
+- Retail and showroom moves with tight windows
+**H2:** Why Quick Move?
+- Steve and Frankie personally plan commercial jobs
+- Flexible scheduling. If you need it done overnight, that's how we schedule it.
+- COIs and building coordination handled without extra hand-holding
+---
+## Section: CTA
+**H2:** Ready to plan your move?
+**Subheadline:** Get a free estimate in under 24 hours.
+**Buttons:**
+- Get a Free Quote
+- Upload a Video for Estimate
+- (914) 732-3733
+---
+---
+# PAGE 14 — STORAGE MOVES (Service Page)
+**Page title:** Storage Movers in Westchester, NY | Quick Move & Packing
+**Meta description:** Storage move-ins, move-outs, and transfers across Westchester. One team, one plan, one truck.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Services / Storage Moves
+**H1:** Moves into, out of, and between storage.
+**Subheadline:** Renovation, home sale, or downsizing project. We handle the storage leg without a second trip.
+---
+## Section: Body Content
+**H2:** What's included?
+- Packing of items going into storage
+- Transport to the storage facility of your choice, or one we recommend
+- Retrieval and return trips when you're ready
+- Short-term and long-term storage coordination
+**H2:** Who is this for?
+- Homeowners mid-renovation who need furniture out of the way
+- People selling a home who need to stage and store simultaneously
+- Downsizers transitioning between homes on different timelines
+**H2:** Why Quick Move?
+- One crew handling pack, store, and return. No handoffs.
+- We've worked with most Westchester storage facilities and know their rules.
+- Long-term storage handled carefully, not dumped and forgotten.
+---
+**Featured Review:**
+- Stars: 5
+- Quote: Quick Move handled our storage during a full home renovation. They packed everything, stored it, and returned it when we were ready. Not one thing was damaged.
+- Author: Sharon W. — Westchester, NY
+---
+## Section: CTA
+**H2:** Ready to plan your move?
+**Subheadline:** Get a free estimate in under 24 hours.
+**Buttons:**
+- Get a Free Quote
+- Upload a Video for Estimate
+- (914) 732-3733
+---
+---
+# PAGE 15 — LABOR ONLY (Service Page)
+**Page title:** Labor-Only Movers in Westchester, NY | Quick Move & Packing
+**Meta description:** Experienced movers for loading, unloading, and rearranging. Truck not included. Serving Westchester and the tri-state area.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Services / Labor Only
+**H1:** Labor-only moving help
+**Subheadline:** Already have a truck? We'll supply the crew. Load, unload, or rearrange, by experienced movers who've done this thousands of times.
+---
+## Section: Body Content
+**H2:** What's included?
+- Loading and unloading of rental trucks or PODS
+- Furniture moving within your home
+- Rearranging heavy items
+- Moving into or out of storage
+**H2:** Who is this for?
+- DIY movers who rented a truck and need muscle for the heavy end of the job
+- Customers moving into or out of a storage unit
+- Anyone who just needs a couple of large pieces relocated
+**H2:** Why Quick Move?
+- Same trained crew that handles full moves.
+- Right-sized team for the job. We'll tell you honestly whether you need two, three, or four.
+- Available same-day on occasion, depending on the schedule.
+---
+## Section: CTA
+**H2:** Ready to plan your move?
+**Subheadline:** Get a free estimate in under 24 hours.
+**Buttons:**
+- Get a Free Quote
+- Upload a Video for Estimate
+- (914) 732-3733
+---
+---
+# PAGE 16 — LAST-MINUTE MOVES (Service Page)
+**Page title:** Last-Minute Movers in Westchester, NY | Quick Move & Packing
+**Meta description:** Short-notice moves across Westchester and the tri-state area. Call (914) 732-3733 for same-day quotes.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Services / Last-Minute Moves
+**H1:** Last-minute moves, handled with the same care
+**Subheadline:** Got a short timeline? We'll tell you honestly whether we can help. If we can, we show up ready.
+---
+## Section: Body Content
+**H2:** What's included?
+- Quick-response quote, usually same day
+- Emergency packing and material delivery
+- Flexible scheduling including evenings and weekends
+- Same crew quality as a planned move
+**H2:** Who is this for?
+- Renters with surprise end-of-lease situations
+- Anyone whose original movers fell through
+- Families dealing with unexpected life events that require a fast move
+**H2:** Why Quick Move?
+- Honest answer fast. If we can't fit you in, we'll tell you right away.
+- Same crew, same standard. A rush job doesn't mean a worse job.
+- Packing help on short notice is available
+---
+**Featured Review:**
+- Stars: 5
+- Quote: We called with two days' notice and they made it happen. The crew was professional, fast, and handled our grandmother's antiques like they were their own.
+- Author: David L. — Scarsdale, NY
+---
+## Section: CTA
+**H2:** Need to move fast?
+**Subheadline:** Call us directly for fastest response.
+**Buttons:**
+- (914) 732-3733
+- Get a Free Quote
+---
+---
+# PAGE 17 — JUNK REMOVAL (Service Page)
+**Page title:** Junk Removal and Clean-Outs in Westchester | Quick Move & Packing
+**Meta description:** Home clean-outs and junk removal across Westchester. Paired with a move or standalone. Free quote.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Services / Junk Removal
+**H1:** Junk removal that pairs with your move.
+**Subheadline:** Clean out a basement, a garage, or a whole house. We haul it away the same day we move you.
+---
+## Section: Body Content
+**H2:** What's included?
+- Full-home and partial clean-outs
+- Furniture, appliances, and general debris
+- Donation runs where possible
+- Scheduled alongside your move or as a standalone job
+**H2:** Who is this for?
+- Homeowners clearing out before a sale
+- Families cleaning out a parent's home
+- Anyone downsizing who needs the old stuff gone before the new stuff arrives
+**H2:** Why Quick Move?
+- One crew, one day. We move you in and take the junk out in the same visit.
+- We'll tell you honestly what's worth donating and what isn't.
+- No pure junk jobs without a connection to moving. We focus on what we're good at.
+---
+## Section: CTA
+**H2:** Ready to plan your move?
+**Subheadline:** Get a free estimate in under 24 hours.
+**Buttons:**
+- Get a Free Quote
+- Upload a Video for Estimate
+- (914) 732-3733
+---
+---
+# PAGE 18 — WHITE PLAINS (Town Page)
+**Page title:** White Plains Movers | Local Westchester Moving Company
+**Meta description:** Family-owned movers serving White Plains, NY for over 30 years. Condo, home, and office relocations. Licensed, insured. Free quote.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Areas We Serve / White Plains
+**H1:** Movers in White Plains, NY
+**Subheadline:** The county seat is ten minutes from our Harrison home base. We handle condo moves on Main Street, family relocations in Gedney, and everything in between.
+---
+## Section: Body Content
+**Eyebrow:** Serving White Plains since 1996
+**Intro paragraph:** White Plains has every kind of move we handle: high-rise condos downtown, townhouses in Battle Hill, single-family homes in Gedney and Rosedale, and professional offices on Bloomingdale Road. We know the buildings that need COIs, the streets with loading-zone rules, and which garages fit a 26-foot truck. We've been moving White Plains residents for over three decades.
+**H2:** Popular moves we handle in White Plains.
+- Downtown condo and high-rise moves (The Residences, The Ritz-Carlton, 221 Main)
+- Family homes in Gedney, Rosedale, and Battle Hill
+- Office relocations on Bloomingdale Road and Bank Street
+- Moves to and from storage facilities around Westchester Avenue
+**H3:** Services available in White Plains
+- Local moving
+- Long distance moves
+- Commercial and office moves
+- Professional packing
+- Labor only
+- Storage moves
+- Junk removal
+**Drive time / nearby towns:** Drive time from Harrison HQ: 10 minutes | Nearby towns: Scarsdale, Harrison, Eastchester, Greenburgh
+---
+**Featured Review:**
+- Stars: 5
+- Quote: Quick Move is the best. On time, efficient, and careful with everything. Have used them for two moves in White Plains and would not use anyone else.
+- Author: Karen B. — White Plains, NY
+---
+## Section: CTA
+**H2:** Moving in White Plains?
+**Subheadline:** Get a free estimate. We respond same day during business hours.
+**Buttons:**
+- Get a Free Quote
+- (914) 732-3733
+---
+---
+# PAGE 19 — MAMARONECK (Town Page)
+**Page title:** Mamaroneck Movers | Local Westchester Moving Company
+**Meta description:** Mamaroneck movers based minutes away in Harrison, NY. Family-owned, over 30 years, fully insured. Chamber members. Free quote.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Areas We Serve / Mamaroneck
+**H1:** Movers in Mamaroneck, NY
+**Subheadline:** Five minutes from our Harrison base, and a place we know by heart. Waterfront homes, village apartments, and everything from the Post Road to Orienta Point.
+---
+## Section: Body Content
+**Eyebrow:** Local since 1996 / Chamber of Commerce members
+**Intro paragraph:** Mamaroneck is one of the towns we move in most often. We're proud members of the Mamaroneck Chamber of Commerce. We've handled moves up and down Boston Post Road, in the village, in Orienta, and out by Harbor Island. We know the summer traffic, the streets that need permits, and how to protect hardwoods in a 1920s colonial.
+**H2:** Popular moves we handle in Mamaroneck.
+- Waterfront, Single-Family Homes
+- Village Apartments and Condos
+- Harbor Island and Shore Acres moves
+- Storage Moves for Summer Residents
+- Senior Downsizing Into The Village
+**H3:** Services available in Mamaroneck
+- Local moving
+- Professional packing
+- Commercial moving
+- Storage moves
+- Junk removal
+**Drive time / nearby towns:** Drive time from Harrison HQ: 5 minutes | Nearby towns: Larchmont, Harrison, Rye, New Rochelle
+---
+**Featured Review:**
+- Stars: 5
+- Quote: If I could give them 10 stars I would. Staff was kind, attentive and efficient. They also had the best price around. I would recommend them to absolutely everyone.
+- Author: Ashley D. — Mamaroneck, NY
+---
+## Section: CTA
+**H2:** Moving in Mamaroneck?
+**Subheadline:** We're 5 minutes away. Get a free estimate today.
+**Buttons:**
+- Get a Free Quote
+- (914) 732-3733
+---
+---
+# PAGE 20 — RYE (Town Page)
+**Page title:** Rye NY Movers | Local Westchester Moving Company
+**Meta description:** Rye, NY movers with over 30 years of local experience. Historic homes, condos, family relocations. Licensed, insured. Free quote.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Areas We Serve / Rye
+**H1:** Movers in Rye, NY
+**Subheadline:** Across the border from our Harrison HQ. Historic homes, families moving up, and downsizers moving down. We handle them all with care.
+---
+## Section: Body Content
+**Eyebrow:** Serving Rye since 1996
+**Intro paragraph:** Rye is one of our most-served towns. We see every type of move here. Historic homes in Rye City. Newer families moving into Milton Point and Indian Village. A steady flow of downsizers heading into condos. We know the parking rules, the narrow driveways, and how to protect the older staircases and hardwood floors that these homes deserve.
+**H2:** Popular moves we handle in Rye.
+- Historic single-family homes in Rye City and Milton Point
+- Condo and townhouse moves near downtown
+- Senior downsizing from long-time family homes
+- Waterfront properties in Indian Village
+- Moves to and from Rye Brook and Port Chester
+**H3:** Services available in Rye
+- Local moving
+- Professional packing
+- Commercial moving
+- Storage moves
+- Junk removal
+**Drive time / nearby towns:** Drive time from Harrison HQ: 7 minutes | Nearby towns: Harrison, Rye Brook, Port Chester, Mamaroneck
+---
+**Featured Review:**
+- Stars: 5
+- Quote: Professional, knowledgeable, always available for any questions. Outstanding service.
+- Author: Michael N. — Rye, NY
+---
+## Section: CTA
+**H2:** Moving in Rye?
+**Subheadline:** Get a free estimate. We know the area well.
+**Buttons:**
+- Get a Free Quote
+- (914) 732-3733
+---
+---
+# PAGE 21 — LARCHMONT (Town Page)
+**Page title:** Larchmont Movers | Local Westchester Moving Company
+**Meta description:** Larchmont, NY movers based in Harrison. Family-owned, over 30 years, licensed and insured. Commuter, family, and senior moves. Free quote.
+---
+## Section: Page Hero
+**Breadcrumb:** Home / Areas We Serve / Larchmont
+**H1:** Movers in Larchmont, NY
+**Subheadline:** Ten minutes from our Harrison base. Family homes, commuter moves, and the occasional trip to the city. We've been part of the Larchmont rhythm for years.
+---
+## Section: Body Content
+**Eyebrow:** Serving Larchmont since 1996
+**Intro paragraph:** Larchmont families tend to know what they want. A careful crew, a fair price, no surprises. We've moved people into the Manor, out of the Flats, and up and down Boston Post Road. We know the timing of the morning commute. We know which streets get tight around school drop-off. We schedule around all of it.
+**H2:** Popular moves we handle in Larchmont.
+- Family homes in the Manor and the Flats
+- Commuter moves to and from NYC
+- Condo and co-op moves on Boston Post Road
+- Senior downsizing and in-town transitions
+- Summer and fall moves around the school calendar
+**H3:** Services available in Larchmont
+- Local moving
+- Professional packing
+- Storage moves
+- Labor only
+- Junk removal
+**Drive time / nearby towns:** Drive time from Harrison HQ: 10 minutes | Nearby towns: Mamaroneck, New Rochelle, Harrison, Rye
+---
+**Trust strip:**
+- ★ 4.9 Google
+- Licensed #38255
+- Insured
+- 30+ years
+---
+## Section: CTA
+**H2:** Moving in Larchmont?
+**Subheadline:** Get a free estimate. We respond same day during business hours.
+**Buttons:**
+- Get a Free Quote
+- (914) 732-3733
+---
+*End of copy review document — 21 pages total*
+*Quick Move & Packing Service | myquickmove.com | (914) 732-3733*

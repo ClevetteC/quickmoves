@@ -1,0 +1,127 @@
+<!-- ============================================
+     QUICK MOVE & PACKING — SITE-WIDE HEADER
+     Destination: Settings → Advanced → Code Injection → Header
+     v5 — all placeholders resolved except GTM/GA4 (require account setup)
+     ============================================ -->
+
+<!-- Open Graph + Twitter Cards (social previews for every shared link) -->
+<meta property="og:site_name" content="Quick Move &amp; Packing Service">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://www.quickmoveandpacking.com/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://www.quickmoveandpacking.com/og-image.jpg">
+<!-- NOTE: og:title, og:description, og:url, twitter:title, twitter:description are
+     set per-page by Squarespace from Page Settings → SEO title and meta description.
+     og:image above is the site-wide fallback. Replace the URL once you have
+     a 1200×630px social share image uploaded to your Squarespace Media Library. -->
+
+<!-- Google Fonts (preconnect for speed) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- Master MovingCompany schema (JSON-LD) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MovingCompany",
+  "name": "Quick Move & Packing Service",
+  "@id": "https://www.quickmoveandpacking.com/#business",
+  "url": "https://www.quickmoveandpacking.com/",
+  "telephone": "+1-914-732-3733",
+  "email": "steven@myquickmove.com",
+  "priceRange": "$$",
+  "foundingDate": "1996",
+  "description": "Family-owned full-service moving company serving Westchester County, NYC, and the tri-state area for over 30 years.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "240 Halstead Avenue",
+    "addressLocality": "Harrison",
+    "addressRegion": "NY",
+    "postalCode": "10528",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 40.9678704,
+    "longitude": -73.7150077
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+      "opens": "08:00",
+      "closes": "18:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Saturday"],
+      "opens": "08:00",
+      "closes": "18:00"
+    }
+  ],
+  "areaServed": [
+    { "@type": "AdministrativeArea", "name": "Westchester County, NY" },
+    { "@type": "AdministrativeArea", "name": "New York City, NY" },
+    { "@type": "AdministrativeArea", "name": "Fairfield County, CT" }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Moving Services",
+    "itemListElement": [
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Local Moving" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Long Distance Moving" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Commercial and Office Moves" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Professional Packing" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Labor-Only Moving" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Storage Moves" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Last-Minute Moves" } },
+      { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Junk Removal" } }
+    ]
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "88",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "license",
+    "name": "NY State Moving License #38255"
+  },
+  "sameAs": [
+    "https://www.homeadvisor.com/rated.QuickMoveandPacking.56931182.html"
+  ]
+}
+</script>
+
+<!-- WebSite schema — enables Google Sitelinks search box -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Quick Move & Packing Service",
+  "url": "https://www.quickmoveandpacking.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.quickmoveandpacking.com/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<!-- Google Tag Manager — replace GTM-XXXXXXX with your container ID -->
+<!-- Get your container ID at: tagmanager.google.com → Admin → Container ID -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MFV3L5HH');</script>
+<!-- End Google Tag Manager -->
