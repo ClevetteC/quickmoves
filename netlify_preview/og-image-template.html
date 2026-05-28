@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OG Image — Quick Move & Packing</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      width: 1200px;
+      height: 630px;
+      overflow: hidden;
+      background: #000;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .canvas {
+      width: 1200px;
+      height: 630px;
+      position: relative;
+      display: flex;
+      overflow: hidden;
+    }
+
+    /* Photo panel — right side */
+    .photo-panel {
+      position: absolute;
+      right: 0;
+      top: 0;
+      width: 520px;
+      height: 630px;
+      overflow: hidden;
+    }
+
+    .photo-panel img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center center;
+      display: block;
+    }
+
+    /* Orange gradient overlay on photo — blends into dark left panel */
+    .photo-panel::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        to right,
+        #000 0%,
+        rgba(0,0,0,0.85) 20%,
+        rgba(0,0,0,0.4) 55%,
+        rgba(243,118,35,0.15) 100%
+      );
+      z-index: 1;
+    }
+
+    /* Subtle orange tint on photo */
+    .photo-panel::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(243, 118, 35, 0.08);
+      z-index: 2;
+    }
+
+    /* Left content panel */
+    .content-panel {
+      position: relative;
+      z-index: 10;
+      width: 720px;
+      height: 630px;
+      padding: 56px 64px 52px 64px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    /* Orange left accent bar */
+    .accent-bar {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 6px;
+      height: 100%;
+      background: #F37623;
+    }
+
+    /* Logo area — white pill card so logo reads on dark background */
+    .logo-area {
+      display: inline-flex;
+      align-items: center;
+      background: #ffffff;
+      border-radius: 6px;
+      padding: 10px 18px;
+      width: fit-content;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.25);
+    }
+
+    .logo-area img {
+      height: 44px;
+      width: auto;
+      display: block;
+    }
+
+    /* Main headline */
+    .headline-block {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 32px 0 24px;
+    }
+
+    .eyebrow {
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #F37623;
+      margin-bottom: 16px;
+    }
+
+    .headline {
+      font-family: 'Fraunces', Georgia, serif;
+      font-size: 56px;
+      font-weight: 500;
+      line-height: 1.08;
+      letter-spacing: -0.02em;
+      color: #ffffff;
+      margin-bottom: 20px;
+    }
+
+    .headline em {
+      font-style: italic;
+      color: #F37623;
+    }
+
+    .subline {
+      font-family: 'Inter', sans-serif;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 1.5;
+      color: rgba(255,255,255,0.72);
+      max-width: 540px;
+    }
+
+    /* Trust badges */
+    .trust-row {
+      display: flex;
+      align-items: center;
+      gap: 0;
+    }
+
+    .trust-badge {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 20px;
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 4px;
+      margin-right: 10px;
+    }
+
+    .trust-badge:last-child {
+      margin-right: 0;
+    }
+
+    .trust-star {
+      color: #F5A623;
+      font-size: 14px;
+      line-height: 1;
+    }
+
+    .trust-text {
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      color: rgba(255,255,255,0.85);
+      white-space: nowrap;
+    }
+
+    .trust-divider {
+      width: 1px;
+      height: 28px;
+      background: rgba(255,255,255,0.15);
+      margin: 0 10px;
+    }
+
+    /* URL strip at very bottom */
+    .url-strip {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 40px;
+      background: #F37623;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 64px;
+      z-index: 20;
+    }
+
+    .url-text {
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      color: #fff;
+      letter-spacing: 0.04em;
+    }
+
+    .phone-text {
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      color: #fff;
+      letter-spacing: 0.04em;
+    }
+  </style>
+</head>
+<body>
+<div class="canvas">
+
+  <!-- Photo right panel -->
+  <div class="photo-panel">
+    <img src="/assets/fleet_shot.jpg" alt="">
+  </div>
+
+  <!-- Left content -->
+  <div class="content-panel">
+    <div class="accent-bar"></div>
+
+    <!-- Logo -->
+    <div class="logo-area">
+      <img src="/assets/logo.png" alt="Quick Move & Packing Service">
+    </div>
+
+    <!-- Headline block -->
+    <div class="headline-block">
+      <span class="eyebrow">Westchester's Family Movers Since 1996</span>
+      <h1 class="headline">Moving you with care,<br><em>not just a truck.</em></h1>
+      <p class="subline">Full-service moving, packing, and storage across Westchester, NYC, and the tri-state area.</p>
+    </div>
+
+    <!-- Trust badges -->
+    <div class="trust-row">
+      <div class="trust-badge">
+        <span class="trust-star">★</span>
+        <span class="trust-text">4.9 Google · 4.8 Angi</span>
+      </div>
+      <div class="trust-badge">
+        <span class="trust-text">30+ Years · Licensed &amp; Insured</span>
+      </div>
+      <div class="trust-badge">
+        <span class="trust-text">Harrison, NY</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom URL strip -->
+  <div class="url-strip">
+    <span class="url-text">quickmoveandpacking.com</span>
+    <span class="phone-text">(914) 732-3733</span>
+  </div>
+
+</div>
+</body>
+</html>

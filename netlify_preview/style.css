@@ -116,13 +116,19 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
   position: sticky;
   top: 0;
   z-index: 100;
+  background-color: transparent;
+  border-bottom: 1px solid transparent;
+  transition: background-color 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+}
+.qm-header.scrolled {
   background-color: #ffffff;
   border-bottom: 1px solid var(--qm-border);
+  box-shadow: 0 1px 8px rgba(0,0,0,0.06);
 }
 .qm-header-inner {
   display: flex;
   align-items: center;
-  height: 64px;
+  height: 88px;
   gap: 32px;
 }
 .qm-logo {
@@ -137,7 +143,7 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
   gap: 10px;
 }
 .qm-logo img {
-  height: 72px;
+  height: 82px;
   width: auto;
   display: block;
 }
@@ -154,7 +160,7 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
   color: var(--qm-navy);
   transition: color 0.2s;
 }
-.qm-nav > a:not(.qm-btn):hover { color: var(--qm-orange); }
+.qm-nav > a:not(.qm-btn):hover { color: var(--qm-orange-hover); }
 .qm-nav .qm-btn { font-size: 14px; padding: 9px 20px; }
 .qm-header-phone {
   font-family: 'Inter', sans-serif;
@@ -193,7 +199,7 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
   .qm-nav {
     display: none;
     position: fixed;
-    top: 64px;
+    top: 88px;
     left: 0; right: 0; bottom: 0;
     background: var(--qm-cream);
     flex-direction: column;
@@ -210,7 +216,9 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
     font-size: 18px;
     border-bottom: 1px solid var(--qm-border);
     width: 100%;
+    color: var(--qm-navy);
   }
+  .qm-nav > a:not(.qm-btn):hover { color: var(--qm-orange); }
   .qm-nav .qm-btn {
     margin-top: 20px;
     width: 100%;
@@ -223,12 +231,22 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
   body.nav-open .qm-menu-toggle span:nth-child(2) { opacity: 0; }
   body.nav-open .qm-menu-toggle span:nth-child(3) { transform: rotate(-45deg) translate(5px, -5px); }
 }
+@media (max-width: 768px) {
+  .qm-header-inner { height: 70px; }
+  .qm-logo img { height: 62px; }
+  .qm-nav { top: 70px; }
+  .qm-page-hero {
+    padding: calc(36px + 70px) 0 36px;
+    margin-top: -70px;
+  }
+}
 
 /* Homepage hero — two-column: text left, video right */
 .qm-hero {
-  background-color: var(--qm-orange);
-  color: #fff;
-  padding: 72px 0 64px;
+  background: linear-gradient(180deg, #f9b383 0%, #fef6f2 38%, #ffffff 58%);
+  color: var(--qm-navy);
+  padding: calc(72px + 88px) 0 64px;
+  margin-top: -88px;
   overflow: hidden;
 }
 .qm-hero-inner {
@@ -237,10 +255,10 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
   gap: 48px;
   align-items: center;
 }
-.qm-hero h1 { color: #fff; margin-bottom: 16px; }
+.qm-hero h1 { color: var(--qm-navy); margin-bottom: 16px; }
 .qm-hero-sub {
   font-size: 1.125rem;
-  color: rgba(255,255,255,0.88);
+  color: #444;
   max-width: 520px;
   margin-bottom: 32px;
   line-height: 1.7;
@@ -276,31 +294,35 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
   border-radius: 8px;
 }
 @media (max-width: 768px) {
-  .qm-hero { padding: 48px 0; }
+  .qm-hero {
+    padding: calc(48px + 70px) 0 48px;
+    margin-top: -70px;
+  }
   .qm-hero-inner { grid-template-columns: 1fr; gap: 32px; }
   .qm-hero-video { aspect-ratio: 16 / 9; }
 }
 
 /* Page hero (inner pages) */
 .qm-page-hero {
-  background-color: var(--qm-orange);
-  color: #fff;
-  padding: 52px 0;
+  background: linear-gradient(180deg, #f9b383 0%, #fef6f2 38%, var(--qm-cream) 58%);
+  color: var(--qm-navy);
+  padding: calc(52px + 88px) 0 52px;
+  margin-top: -88px;
 }
 .qm-page-hero h1 {
-  color: #fff;
+  color: var(--qm-navy);
   font-size: clamp(1.75rem, 4vw, 2.5rem);
   margin-bottom: 12px;
 }
 .qm-page-hero p {
-  color: rgba(255,255,255,0.78);
+  color: #444;
   font-size: 1.05rem;
   margin-bottom: 0;
   max-width: 600px;
 }
 .qm-breadcrumb {
   font-size: 13px;
-  color: rgba(255,255,255,0.5);
+  color: rgba(0,0,0,0.45);
   margin-bottom: 12px;
   font-family: 'Inter', sans-serif;
 }
@@ -521,6 +543,15 @@ h3 { font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.3; }
 }
 .qm-cta-phone-link:hover { color: #fff; }
 @media (max-width: 600px) { .qm-cta-block { padding: 32px 24px; } }
+
+/* CTA block — cream/light variant */
+.qm-cta-block-light {
+  background: transparent;
+}
+.qm-cta-block-light h2 { color: var(--qm-navy); }
+.qm-cta-block-light p { color: var(--qm-text-soft); }
+.qm-cta-block-light .qm-cta-phone-link { color: var(--qm-text-soft); }
+.qm-cta-block-light .qm-cta-phone-link:hover { color: var(--qm-navy); }
 
 /* Two-path estimating block */
 .qm-two-path {
